@@ -1,0 +1,26 @@
+#==============================================================================
+#
+# 『モデルビューワ』スクリプトファイル [model_race.txt]
+# Author : AKIRA TANAKA
+#
+#==============================================================================
+SCRIPT			# この行は絶対消さないこと！
+
+#------------------------------------------------------------------------------
+# モデル数
+#------------------------------------------------------------------------------
+NUM_MODEL = 8
+
+#------------------------------------------------------------------------------
+# モデルファイル名
+#------------------------------------------------------------------------------
+MODEL_FILENAME = data/MODEL/enemy_body.x		# [0]体
+MODEL_FILENAME = data/MODEL/enemy_head.x		# [1]頭
+MODEL_FILENAME = data/MODEL/enemy_rightarm.x	# [2]右腕
+MODEL_FILENAME = data/MODEL/enemy_leftarm.x		# [3]左腕
+MODEL_FILENAME = data/MODEL/enemy_rightthigh.x	# [3]右太もも
+MODEL_FILENAME = data/MODEL/enemy_leftthigh.x	# [3]左太もも
+MODEL_FILENAME = data/MODEL/enemy_rightcalf.x	# [3]右ふくらはぎ
+MODEL_FILENAME = data/MODEL/enemy_leftcalf.x	# [3]左ふくらはぎ
+
+END_SCRIPT		# この行は絶対消さないこと！
